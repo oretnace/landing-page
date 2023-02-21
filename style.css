@@ -8,12 +8,12 @@
     color: #F9FAF8;
 }
 
-.hero .secondary, .header-link-text {
+.hero .secondary, .header-link  {
     font-size: 18px;
     color: #E5E7EB;
 }
 
-.header-logo-text {
+.header-logo {
     font-size: 24px;
     color: #F9FAF8;
 }
