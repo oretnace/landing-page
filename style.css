@@ -4,7 +4,7 @@
 
 .hero-main {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #F9FAF8;
 }
 
@@ -22,9 +22,9 @@
     background-color: #3882f6;
 }
 
-.information-header-text {
+.information-header {
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #1F2937;
 }
 
