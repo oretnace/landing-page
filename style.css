@@ -2,13 +2,13 @@
     background-color: #1F2937;
 }
 
-.hero .main {
+.hero-main {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
 }
 
-.hero .secondary, .header-link  {
+.hero-secondary, .header-link  {
     font-size: 18px;
     color: #E5E7EB;
 }
