@@ -4,7 +4,7 @@ body {
 }
 
 body, 
-.header-container, .hero-content-container {
+.header-container, ul, .hero-content-container {
     display: flex;
 }
 
