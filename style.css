@@ -3,7 +3,8 @@ body {
     flex-direction: column;
 }
 
-body, .header-container {
+body, 
+.header-container, .hero-content-container {
     display: flex;
 }
 
