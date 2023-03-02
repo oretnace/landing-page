@@ -29,6 +29,11 @@ body,
     font-weight: bold;
 }
 
+.hero-content-right {
+    background-color: grey;
+    color: #F9FAF8;
+}
+
 button, .call-to-action {
     background-color: #3882f6;
     color: #F9FAF8;
