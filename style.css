@@ -4,7 +4,8 @@ body {
 }
 
 body, 
-.header-container, ul, .hero-content-container {
+.header-container, ul, .hero-content-container,
+.information-items {
     display: flex;
 }
 
@@ -44,10 +45,18 @@ button, .call-to-action {
     color: #F9FAF8;
 }
 
+.information {
+    color: #1F2937;
+}
+
 .information-header {
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
+}
+
+.item-image {
+    border-style: solid;
+    border-color: #3882f6;
 }
 
 .quote {
